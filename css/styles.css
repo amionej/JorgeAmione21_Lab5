@@ -1,0 +1,13 @@
+.decorate {
+    text-decoration: line-through;
+}
+ul {
+    border: 1px solid black;
+}
+.listitem {
+    list-style: none;
+}
+p {
+    color: grey;
+    font-style: italic;
+}
